@@ -1,6 +1,6 @@
 # Setup name variables for the package/tool
 NAME := reg
-PKG := github.com/genuinetools/$(NAME)
+PKG := github.com/StudioEtrange/$(NAME)
 
 CGO_ENABLED := 0
 
